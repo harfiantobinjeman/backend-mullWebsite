@@ -1,0 +1,42 @@
+https://youtu.be/sN6Bv1EWI3w?si=Xv-othJR8906zXOZ
+
+database image
+https://www.youtube.com/watch?v=F1RwUI3p4bI&list=PLG3j59vX4yLHA-wCw7KDP-i0r10ZrckqG&index=4
+
+--npx sequelize-cli model:generate --name User --attributes firstName:string,lastName:string,email:string
+
+--validasi models
+https://www.youtube.com/watch?v=XYQuGArOS3s&list=PLG3j59vX4yLHA-wCw7KDP-i0r10ZrckqG&index=7
+
+npm install --save bcryptjs jsonwebtoken nodemon
+
+https://www.youtube.com/watch?v=aqgGGfARwYw&list=PLG3j59vX4yLHA-wCw7KDP-i0r10ZrckqG&index=10
+
+npm install --save multer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
